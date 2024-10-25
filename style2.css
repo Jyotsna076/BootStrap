@@ -1,0 +1,32 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+.pink{
+    background-color: pink;
+    padding: 0;
+    margin: 0;
+}
+
+.blue{
+    background-color: blue;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+} */
+.pink{
+    background-color: pink;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.orange{
+    background-color: orange;
+}
